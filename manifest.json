@@ -1,0 +1,1 @@
+{"name":"Highway Rally","short_name":"Highway Rally","description":"A colorful highway driving game. Choose endless drive or time trial.","start_url":"./","scope":"./","display":"standalone","orientation":"landscape-primary","background_color":"#101624","theme_color":"#101624","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
